@@ -18,3 +18,4 @@ console.log(totalDigitRekursif(1542)); // 12
 console.log(totalDigitRekursif(5)); // 5
 console.log(totalDigitRekursif(21)); // 3
 console.log(totalDigitRekursif(11111)); // 5
+console.log(totalDigitRekursif(123456789)) //45
